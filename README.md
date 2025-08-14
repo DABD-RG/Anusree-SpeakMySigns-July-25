@@ -96,7 +96,7 @@ jupyter notebook main_notebook.ipynb
 
 ---
 
-### 🏋️ Train the Model
+### 🤖 Train the Model
 
 ```bash
 cd training
