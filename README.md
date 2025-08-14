@@ -40,9 +40,7 @@ After downloading:
    - `flask_app/fullset.h5`
    - `notebook/fullset.h5`
 
----
 
-````markdown
 ## ⚙️ Setup & Installation
 
 ### 1️⃣ Clone the Repository
@@ -75,7 +73,7 @@ pip install -r requirements.txt
 ```
 
 
-````markdown
+
 ## 🚀 Usage
 
 ### ▶️ Run the Flask App
@@ -104,6 +102,9 @@ jupyter notebook main_notebook.ipynb
 cd training
 jupyter notebook model_training.ipynb
 ```
+
+
+
 
 
 
